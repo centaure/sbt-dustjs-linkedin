@@ -4,7 +4,7 @@ version := "1.0.3"
 
 organization := "com.jmparsons.sbt"
 
-scalaVersion := "2.10.4"
+scalaVersion := "2.11.4"
 
 sbtPlugin := true
 
